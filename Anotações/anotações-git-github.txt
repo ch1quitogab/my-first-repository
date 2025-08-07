@@ -2,4 +2,4 @@ git add.
 adiciona as novas alterações do diretorio atual para a área de stage
 
 git commit -m ""
-commita as as novas
+commita as as novas alterações
